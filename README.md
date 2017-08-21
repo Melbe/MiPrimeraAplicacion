@@ -1,2 +1,5 @@
 # MiPrimeraAplicacion
-Mi primera aplicación en Android
+
+Hola,
+
+Estoy emocionada por practicar con Android !!!
